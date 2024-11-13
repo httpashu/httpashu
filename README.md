@@ -31,8 +31,7 @@ I’m passionate about **AI and machine learning**, constantly exploring the pow
 ---
 
 ### 📫 Let's Connect!
-- **Email**: [your-email@example.com] ✉️
-- **LinkedIn**: [linkedin.com/in/ashutosh] 🔗
+- **Email**: [ashucto@gmail.com] ✉️
 
 ---
 
