@@ -1,6 +1,4 @@
 
-![Header GIF](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif) <!-- Replace with a relevant AI-themed GIF -->
-
 # 👋 Hi, I’m Ashutosh – **AI Engineer** 🚀
 
 ### 🌟 About Me
